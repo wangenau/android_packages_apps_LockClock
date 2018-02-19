@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:textSize="12sp"
+        android:textSize="12dp"
         android:singleLine="true"
         android:ellipsize="marquee"
         android:textColor="?android:attr/textColorPrimary"
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_below="@id/weather_no_data"
-        android:textSize="12sp"
+        android:textSize="12dp"
         android:paddingBottom="8dip"
         android:textColor="?android:attr/textColorSecondary"
         style="@style/label_shadow"
@@ -69,7 +69,7 @@
             android:id="@+id/weather_city"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="14sp"
+            android:textSize="14dp"
             android:textStyle="bold"
             android:layout_alignParentRight="true"
             android:gravity="right"
@@ -87,7 +87,7 @@
             android:gravity="right"
             android:singleLine="true"
             android:ellipsize="marquee"
-            android:textSize="12sp"
+            android:textSize="12dp"
             android:textColor="?android:attr/textColorPrimary"
             style="@style/label_shadow" />
 
@@ -98,7 +98,7 @@
             android:gravity="right"
             android:layout_below="@id/weather_condition"
             android:layout_alignParentRight="true"
-            android:textSize="8sp"
+            android:textSize="8dp"
             android:textColor="?android:attr/textColorSecondary"
             style="@style/label_shadow" />
 
@@ -117,7 +117,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:textSize="20sp"
+            android:textSize="20dp"
             android:textColor="?android:attr/textColorPrimary"
             style="@style/label_shadow" />
 
@@ -135,7 +135,7 @@
             android:layout_below="@id/weather_divider"
             android:layout_centerHorizontal="true"
             android:paddingTop="2dip"
-            android:textSize="12sp"
+            android:textSize="12dp"
             android:textColor="?android:attr/textColorPrimary"
             style="@style/label_shadow" />
 
