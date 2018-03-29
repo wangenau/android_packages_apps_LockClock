@@ -22,7 +22,6 @@ LOCAL_SRC_FILES := $(call all-java-files-under, src)
 LOCAL_SDK_VERSION := 19
 LOCAL_PACKAGE_NAME := LockClock
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
-PRODUCT_AAPT_PREF_CONFIG := hdpi
 
 include $(BUILD_PACKAGE)
 
