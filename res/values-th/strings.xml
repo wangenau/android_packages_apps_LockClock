@@ -105,7 +105,6 @@
   <string name="weather_enabled">เปิด</string>
   <string name="weather_enable">แสดงสภาพอากาศ</string>
   <string name="weather_source_title">แหล่งที่มาของสภาพอากาศ</string>
-  <string name="weather_source_yahoo">พยากรณ์อากาศของ Yahoo!</string>
   <string name="weather_use_custom_location">เลือกตำแหน่งเอง</string>
   <string name="weather_geolocated">หาตำแห่งโดยใช้เครือข่าย</string>
   <string name="weather_custom_location_dialog_title">ใส่ตำแหน่ง</string>

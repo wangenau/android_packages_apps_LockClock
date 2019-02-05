@@ -105,7 +105,6 @@
   <string name="weather_enabled">Activé</string>
   <string name="weather_enable">Afficher la météo</string>
   <string name="weather_source_title">Source météo</string>
-  <string name="weather_source_yahoo">Météo Yahoo!</string>
   <string name="weather_use_custom_location">Définir un emplacement personnalisé</string>
   <string name="weather_geolocated">Géolocalisé à l\'aide du réseau</string>
   <string name="weather_custom_location_dialog_title">Définir une localisation</string>

@@ -105,7 +105,6 @@
   <string name="weather_enabled">Omogočeno</string>
   <string name="weather_enable">Prikaži vreme</string>
   <string name="weather_source_title">Vremenski vir</string>
-  <string name="weather_source_yahoo">Vreme Yahoo!</string>
   <string name="weather_use_custom_location">Uporabi lokacijo po meri</string>
   <string name="weather_geolocated">Lokacija določena z uporabo omrežja</string>
   <string name="weather_custom_location_dialog_title">Vnesite lokacijo</string>

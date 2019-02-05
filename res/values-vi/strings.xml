@@ -61,7 +61,6 @@
   <string name="calendar_category">Lịch sự kiện</string>
   <string name="use_digital_clock_summary">Chuyển đổi giữa đồng hồ kỹ thuật số và analog</string>
   <string name="weather_enabled">Đã bật</string>
-  <string name="weather_source_yahoo">Yahoo! Weather</string>
   <string name="weather_use_custom_location">Chọn vị trí</string>
   <string name="weather_custom_location_hint">Thành phố, Bang/Quốc gia</string>
   <string name="weather_custom_location_title">Vị trí</string>

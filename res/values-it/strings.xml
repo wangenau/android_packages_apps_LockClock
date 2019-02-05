@@ -105,7 +105,6 @@
   <string name="weather_enabled">Attivo</string>
   <string name="weather_enable">Visualizza meteo</string>
   <string name="weather_source_title">Fonte meteo</string>
-  <string name="weather_source_yahoo">Yahoo! Meteo</string>
   <string name="weather_use_custom_location">Posizione personalizzata</string>
   <string name="weather_geolocated">Localizzazione tramite la rete</string>
   <string name="weather_custom_location_dialog_title">Inserisci la posizione</string>

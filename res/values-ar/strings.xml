@@ -105,7 +105,6 @@
   <string name="weather_enabled">سماح</string>
   <string name="weather_enable">عرض حالة الطقس</string>
   <string name="weather_source_title">مصدر الطقس</string>
-  <string name="weather_source_yahoo">طقس yahoo</string>
   <string name="weather_use_custom_location">استخدام موقع مخصص</string>
   <string name="weather_geolocated">بإستخدام الشبكه</string>
   <string name="weather_custom_location_dialog_title">اختيار الدوله</string>

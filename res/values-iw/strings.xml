@@ -105,7 +105,6 @@
   <string name="weather_enabled">מאופשר</string>
   <string name="weather_enable">הצג מזג אוויר</string>
   <string name="weather_source_title">מקור למזג אוויר</string>
-  <string name="weather_source_yahoo">מזג האוויר ב-Yahoo</string>
   <string name="weather_use_custom_location">השתמש במיקום מותאם אישית</string>
   <string name="weather_geolocated">מיקום לפי רשת</string>
   <string name="weather_custom_location_dialog_title">הזן מיקום</string>

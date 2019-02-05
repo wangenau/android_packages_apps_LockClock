@@ -105,7 +105,6 @@
   <string name="weather_enabled">Activada</string>
   <string name="weather_enable">Mostra el temps</string>
   <string name="weather_source_title">Origen meteorològic</string>
-  <string name="weather_source_yahoo">Temps de Yahoo!</string>
   <string name="weather_use_custom_location">Utilitza una ubic. personalitzada</string>
   <string name="weather_geolocated">Geolocalitzat utilitzant la xarxa</string>
   <string name="weather_custom_location_dialog_title">Introdueix ubicació</string>
