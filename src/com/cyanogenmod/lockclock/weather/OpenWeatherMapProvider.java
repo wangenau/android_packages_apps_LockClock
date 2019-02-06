@@ -23,13 +23,13 @@ public class OpenWeatherMapProvider implements WeatherProvider {
     private static final String APP_ID = "e2b075d68c39dc43e16995653fcd6fd0";
 
     private static final String URL_LOCATION =
-            "http://api.openweathermap.org/data/2.5/find?q=%s&mode=json&lang=%s&appid="
+            "https://api.openweathermap.org/data/2.5/find?q=%s&mode=json&lang=%s&appid="
             + APP_ID;
     private static final String URL_WEATHER =
-            "http://api.openweathermap.org/data/2.5/weather?%s&mode=json&units=%s&lang=%s&appid="
+            "https://api.openweathermap.org/data/2.5/weather?%s&mode=json&units=%s&lang=%s&appid="
             + APP_ID;
     private static final String URL_FORECAST =
-            "http://api.openweathermap.org/data/2.5/forecast/daily?" +
+            "https://api.openweathermap.org/data/2.5/forecast/daily?" +
             "%s&mode=json&units=%s&lang=%s&cnt=" + FORECAST_DAYS + "&appid=" + APP_ID;
 
     private Context mContext;
